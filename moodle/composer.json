@@ -5,5 +5,8 @@
         "phpunit/dbUnit": "3.0.*",
         "moodlehq/behat-extension": "3.34.1",
         "mikey179/vfsStream": "^1.6"
+	},
+	"require-dev": {
+		"heroku/heroku-buildpack-php": "*"
 	}
 }
